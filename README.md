@@ -55,7 +55,7 @@
 </h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,react,nodejs,mysql,firebase,figma&perline=7&theme=light" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,react,mysql,figma&perline=7&theme=light" />
 </p>
 
 <p align="center">
