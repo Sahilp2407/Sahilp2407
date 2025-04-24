@@ -20,6 +20,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=00C9A7&center=true&vCenter=true&width=700&lines=Innovating+for+real-world+impact...;Crafting+seamless+digital+experiences...;Growing+and+building+together!+🌱" />
 </p>
 
+<!-- 👾 Pixel GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODBlYm5wcHBpdDNhYTdmcXF5ZDIzNGF6Mm5qM29kOG93NzQ3ajF2NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JIX9t2j0ZTN9S/giphy.gif" width="260px" />
+</p>
+
+
 <p align="center">
   I believe in blending <strong>creativity</strong> & <strong>technology</strong> to shape smart digital solutions.  
   Always exploring, always learning, always building something impactful 💡  
