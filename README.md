@@ -1,7 +1,8 @@
 <!-- ✨ Typing SVG Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=800&height=60&lines=Hi+there+👋+I'm+Sahil+Pandey!;Tech+Enthusiast+🚀;Innovator+%7C+Builder+%7C+Problem+Solver;Career+Growth+Advocate+💼;Let's+build+amazing+things+together!+💡" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C9A7&center=true&vCenter=true&width=600&lines=Hi+I'm+Sahil+Pandey;Tech+Enthusiast+🚀;UI%2FUX+Designer+%7C+AI+Explorer;Let's+Build+Something+Cool+Together!+💡" alt="Hi there 👋 I'm Sahil Pandey!" />
 </h1>
+
 
 <!-- 🎓 University & Role -->
 <p align="center">
