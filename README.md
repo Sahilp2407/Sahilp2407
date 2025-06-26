@@ -1,13 +1,21 @@
-<!-- ✨ Typing SVG Header -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C9A7&center=true&vCenter=true&width=600&lines=Hi+I'm+Sahil+Pandey;Tech+Enthusiast+🚀;UI%2FUX+Designer+%7C+AI+Explorer;Let's+Build+Something+Cool+Together!+💡" alt="Hi there 👋 I'm Sahil Pandey!" />
-</h1>
+<!-- 🌟 Final Working Animated Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=30&duration=3000&pause=800&color=00C9A7&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Sahil+Pandey!+%F0%9F%9A%80;Full+Stack+Developer+%7C+UI%2FUX+Designer+%7C+AI+Explorer;I+Love+Building+Cool+Tech+for+Real+People+%F0%9F%92%A1;Let%27s+Create+Something+Amazing+Together!+%F0%9F%A4%A9" alt="Sahil Pandey typing banner" />
+</p>
 
 
-<!-- 🎓 University & Role -->
+
+
+<!-- 🎓 University, Role & Coder Identity -->
 <p align="center">
   <img src="https://img.shields.io/badge/B.Tech🎓-ITM_Skill_University-00C9A7?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Role-Career_Growth_Advocate-FF7F50?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Coder-%F0%9F%92%BB_Think.Build.Debug-6A5ACD?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <img src="https://img.shields.io/badge/Identity-Creator+%7C+Thinker+%7C+Coder-ff69b4?style=for-the-badge&logo=hashnode&logoColor=white" />
+</p>
+
+<!-- 💥 Animated Dev Line -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=00C9A7&center=true&vCenter=true&width=650&lines=Crafting+Code+That+Speaks...;Debugging+with+Patience...;Designing+with+Passion...;I+am+a+CODER+%F0%9F%9A%80" />
 </p>
 
 <!-- 🚀 Tagline -->
@@ -16,10 +24,20 @@
   <strong>AI</strong> | <strong>UI/UX Designer</strong>
 </h3>
 
-<!-- 💡 Typing Line -->
+<!-- ✨ Typing Animation - Small Version -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=00C9A7&center=true&vCenter=true&width=700&lines=Innovating+for+real-world+impact...;Crafting+seamless+digital+experiences...;Growing+and+building+together!+🌱" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Typing coder animation" />
 </p>
+
+<h3 align="center">
+  Crafting seamless digital experiences •<br>
+  Building for real-world impact •<br>
+  Growing, learning, and coding together 🌱
+</h3>
+
+
+
+
 
 <!-- 👾 Pixel GIF -->
 <p align="center">
@@ -59,9 +77,69 @@
 
 ## 🔧🚀 <span style="color:#00C9A7;">My Toolbox</span> – Tech I Love Working With
 
+<!-- 💻 Coder Toolbox (Icon + Name Style) -->
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=html" width="40" /><br>HTML
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=css" width="40" /><br>CSS
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=js" width="40" /><br>JavaScript
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=java" width="40" /><br>Java
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=python" width="40" /><br>Python
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=cpp" width="40" /><br>C++
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="40" /><br>MongoDB
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mysql" width="40" /><br>MySQL
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="40" /><br>Node.js
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=react" width="40" /><br>React
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=postman" width="40" /><br>Postman
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git" width="40" /><br>Git
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=github" width="40" /><br>GitHub
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=vscode" width="40" /><br>VS Code
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=figma" width="40" /><br>Figma
+    </td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+
+<!-- 🌈 Fancy Divider -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,mysql,figma&perline=7&theme=light" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=00C9A7" />
 </p>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00C9A7&height=100&section=footer" />
