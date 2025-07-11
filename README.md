@@ -149,14 +149,17 @@
 
 ## 📈 My GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sahilp2407&show_icons=true&theme=radical&hide_border=true&icon_color=79ff97&title_color=ffd700" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sahilp2407&theme=radical&hide_border=true" width="48%" />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahilp2407&layout=compact&theme=radical&hide_border=true" width="50%" />
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&width=435&lines=Here+are+my+GitHub+Stats+%F0%9F%93%9C" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sahilp2407&theme=radical&hide_border=true&show_icons=true&count_private=true" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahilp2407&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
