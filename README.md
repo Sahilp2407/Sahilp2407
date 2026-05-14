@@ -1,187 +1,191 @@
-<!-- 🌟 Final Working Animated Header -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=30&duration=3000&pause=800&color=00C9A7&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Sahil+Pandey!+%F0%9F%9A%80;Full+Stack+Developer+%7C+UI%2FUX+Designer+%7C+AI+Explorer;I+Love+Building+Cool+Tech+for+Real+People+%F0%9F%92%A1;Let%27s+Create+Something+Amazing+Together!+%F0%9F%A4%A9" alt="Sahil Pandey typing banner" />
-</p>
+<!-- ╔═══════════════════════════════════════════════════════════════╗ -->
+<!--   SAHIL PANDEY · GITHUB PROFILE · v3.0 · CRAFTED WITH OBSESSION  -->
+<!-- ╚═══════════════════════════════════════════════════════════════╝ -->
 
+<div align="center">
 
+<!-- ══════════════════════════════════ -->
+<!--           HERO HEADER             -->
+<!-- ══════════════════════════════════ -->
 
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:05080d,30:001a0e,70:001a0e,100:05080d&height=280&section=header&text=SAHIL%20PANDEY&fontSize=86&fontColor=00ffaa&fontAlignY=50&desc=%2F%2F%20Full%20Stack%20Dev%20%C2%B7%20UI%2FUX%20Designer%20%C2%B7%20AI%20Explorer&descAlignY=68&descSize=17&descColor=4ade80&animation=fadeIn&stroke=00ffaa&strokeWidth=1" />
 
-<!-- 🎓 University, Role & Coder Identity -->
-<p align="center">
-  <img src="https://img.shields.io/badge/B.Tech🎓-ITM_Skill_University-00C9A7?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Coder-%F0%9F%92%BB_Think.Build.Debug-6A5ACD?style=for-the-badge&logo=codeforces&logoColor=white" />
-  <img src="https://img.shields.io/badge/Identity-Creator+%7C+Thinker+%7C+Coder-ff69b4?style=for-the-badge&logo=hashnode&logoColor=white" />
-</p>
+</div>
 
-<!-- 💥 Animated Dev Line -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=00C9A7&center=true&vCenter=true&width=650&lines=Crafting+Code+That+Speaks...;Debugging+with+Patience...;Designing+with+Passion...;I+am+a+CODER+%F0%9F%9A%80" />
-</p>
+<div align="center">
 
-<!-- 🚀 Tagline -->
-<h3 align="center">
-  🌟 Passionate <span style="color:#00C9A7;"><strong>Tech Explorer</strong></span><br>
-  <strong>AI</strong> | <strong>UI/UX Designer</strong>
-</h3>
+<!-- TERMINAL TYPING — 6 lines, JetBrains Mono -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=19&duration=2400&pause=700&color=00FFAA&center=true&vCenter=true&multiline=false&width=820&lines=%24+whoami+%E2%86%92+Full+Stack+Developer+%7C+AI+Explorer+%7C+Builder+%F0%9F%9A%80;%24+pwd+%E2%86%92+%2Fhome%2Fsahil%2Fbuilding-the-future%2F;%24+git+log+%E2%86%92+Virtual+Wardrobe+%5B+%F0%9F%94%A8+in+progress+%5D;%24+node+-v+%E2%86%92+passion%40latest+%7C+creativity%40infinite;%24+philosophy+%E2%86%92+Code+with+purpose.+Ship+with+pride.+%E2%9C%A8;%24+open+--collab+%E2%86%92+Hackathons+%7C+Side+Projects+%7C+Big+Ideas+%F0%9F%A4%9D" />
 
-<!-- ✨ Typing Animation - Small Version -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Typing coder animation" />
-</p>
+</div>
 
-<h3 align="center">
-  Crafting seamless digital experiences •<br>
-  Building for real-world impact •<br>
-  Growing, learning, and coding together 🌱
-</h3>
+<br/>
 
+<div align="center">
 
+<!-- ══ STATUS BADGES ══ -->
+![](https://img.shields.io/badge/%F0%9F%8E%93_B.Tech-ITM_Skill_University-00ffaa?style=for-the-badge&labelColor=05080d&color=001a0e)
+![](https://img.shields.io/badge/STATUS-OPEN_TO_WORK_%E2%9C%85-00ff88?style=for-the-badge&labelColor=05080d&color=00110a)
+![](https://img.shields.io/badge/MODE-Build_%E2%86%92_Ship_%E2%86%92_Repeat-a78bfa?style=for-the-badge&labelColor=05080d&color=120d24)
+![](https://img.shields.io/badge/%F0%9F%87%AE%F0%9F%87%B3-India-ffffff?style=for-the-badge&labelColor=05080d&color=0d1117)
 
-
-
-<!-- 👾 Pixel GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="260px" />
-</p>
-
-<!-- 🧠 Personal Statement -->
-<p align="center">
-  I believe in blending <strong>creativity</strong> & <strong>technology</strong> to shape smart digital solutions.  
-  Always exploring, always learning, always building something impactful 💡  
-</p>
-
-<!-- 🌈 Divider -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=00C9A7" />
-</p>
+</div>
 
 ---
 
-## 🌟 About Me
+## `$ cat about_me.ts`
 
-<p align="center">
-  🚀 <strong>Tech Explorer</strong> | 💡 <strong>Creative Builder</strong> | 🤖 <strong>AI Enthusiast</strong>
-</p>
+```typescript
+const sahil: Developer = {
+  name        : "Sahil Pandey",
+  role        : ["Full Stack Developer", "UI/UX Designer", "AI Enthusiast"],
+  university  : "ITM Skill University — B.Tech",
+  location    : "India 🇮🇳",
 
-- 🔧 **Currently Building:** <strong>Virtual Wardrobe</strong> – an AI-powered fashion-tech platform to personalize your style.
-- 💻 **Passionate About:** Creating elegant, responsive, and scalable <strong>web & mobile applications</strong> that solve real-world problems.
-- 📚 **Leveling Up In:** <strong>Next.js</strong>, <strong>AI/ML</strong>, and backend architectures that scale.
-- 🤝 **Open to Collaborate On:** <strong>Hackathons</strong>, <strong>Side-projects</strong>, or exciting <strong>tech jam sessions</strong>!
-- 🌐 **Mission:** To build meaningful digital experiences, keep learning, and push boundaries.
+  currentBuild: "Virtual Wardrobe 👗 — AI-powered fashion personalization platform",
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=00C9A7" />
-</p>
+  techStack: {
+    frontend  : ["React", "Next.js", "HTML5", "CSS3", "JavaScript"],
+    backend   : ["Node.js", "Python", "Java", "C++"],
+    databases : ["MongoDB", "MySQL"],
+    design    : ["Figma"],
+    tools     : ["Git", "GitHub", "VS Code", "Postman"],
+    learning  : ["AI/ML", "LLMs", "Scalable Architectures"],
+  },
 
----
-
-## 🔧🚀 <span style="color:#00C9A7;">My Toolbox</span> – Tech I Love Working With
-
-<!-- 💻 Coder Toolbox (Icon + Name Style) -->
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=html" width="40" /><br>HTML
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=css" width="40" /><br>CSS
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=js" width="40" /><br>JavaScript
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=java" width="40" /><br>Java
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=python" width="40" /><br>Python
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=cpp" width="40" /><br>C++
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="40" /><br>MongoDB
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=mysql" width="40" /><br>MySQL
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="40" /><br>Node.js
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=react" width="40" /><br>React
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=postman" width="40" /><br>Postman
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=git" width="40" /><br>Git
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=github" width="40" /><br>GitHub
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=vscode" width="40" /><br>VS Code
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=figma" width="40" /><br>Figma
-    </td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-</table>
-
-<!-- 🌈 Fancy Divider -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=00C9A7" />
-</p>
-
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00C9A7&height=100&section=footer" />
-</p>
+  openTo    : ["Hackathons 🏆", "Side Projects 🛠️", "Tech Jams 🤝"],
+  ship      : () => "Code with purpose. Design with empathy. Ship with pride. 🚀",
+  funFact   : () => "I debug in silence and deploy with confidence.",
+  //
+  // ↑ not a flex, just a lifestyle.
+};
+```
 
 ---
 
-## 📈 My GitHub Stats
+## `$ ls ./tech-stack --icons`
 
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&width=435&lines=Here+are+my+GitHub+Stats+%F0%9F%93%9C" alt="Typing SVG" />
-</p>
+**`// Languages`**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sahilp2407&theme=radical&hide_border=true&show_icons=true&count_private=true" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahilp2407&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,java,python,cpp&theme=dark&perline=6" height="50"/>
 
----
+**`// Frameworks & Databases`**
 
-## 🔗 Connect With Me
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,mongodb,mysql&theme=dark&perline=5" height="50"/>
 
-<p align="center">
-  <a href="https://github.com/Sahilp2407"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/sahil-pandey-7508b6317"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://x.com/psahil2324"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://www.instagram.com/isthat__sahil/"><img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-</p>
+**`// Design & Dev Tools`**
+
+<img src="https://skillicons.dev/icons?i=figma,git,github,vscode,postman&theme=dark&perline=5" height="50"/>
+
+</div>
 
 ---
 
-<h2 align="center">✨ Let’s Collaborate!</h2>
+## `$ git log --graph --stat --all`
 
-<p align="center">
-  Got a cool idea, project, or want to jam on tech?  
-  💬 Let’s connect and make something awesome together!
-</p>
+<div align="center">
 
-<!-- Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00C9A7&height=100&section=footer"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=Sahilp2407&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ffaa&icon_color=00ffaa&text_color=8b949e&ring_color=00ffaa&count_private=true&border_radius=10" height="170"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahilp2407&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ffaa&text_color=8b949e&border_radius=10" height="170"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Sahilp2407&theme=dark&hide_border=true&background=0d1117&ring=00ffaa&fire=f472b6&currStreakLabel=00ffaa&sideLabels=8b949e&dates=4a5568&border_radius=10"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sahilp2407&bg_color=0d1117&color=00ffaa&line=00ffaa&point=ffffff&area=true&area_color=001a0e&hide_border=true&radius=10"/>
+
+</div>
+
+---
+
+## `$ top --achievements`
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Sahilp2407&theme=darkhub&no-frame=true&column=7&margin-w=6&margin-h=6&no-bg=true"/>
+
+</div>
+
+---
+
+## `$ cat ./projects/featured.log`
+
+<div align="center">
+
+| # | Project | Stack | Status | What it does |
+|:--:|:--|:--|:--:|:--|
+| 👗 | **Virtual Wardrobe** | `React` `Node.js` `AI/ML` `MongoDB` | `🔨 Building` | AI-powered fashion-tech to personalize your style |
+| 🌐 | **Portfolio v2** | `Next.js` `Tailwind` `Figma` | `🚧 Planning` | Cinematic dev portfolio with 3D transitions & motion |
+| 🤖 | **AI Lab** | `Python` `LLMs` `APIs` | `⚡ Exploring` | Building intelligent tools at the edge of what's possible |
+
+</div>
+
+---
+
+## `$ watch ./contribution_snake.sh`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sahilp2407/Sahilp2407/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sahilp2407/Sahilp2407/output/github-contribution-grid-snake.svg"/>
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Sahilp2407/Sahilp2407/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
+
+> 💡 **Snake setup:** Add [Platane/snk GitHub Action](https://github.com/Platane/snk) → takes 2 min → looks absolutely insane on your profile.
+
+</div>
+
+---
+
+## `$ ping ./connect --all`
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-Sahilp2407-0d1117?style=for-the-badge&logo=github&logoColor=00ffaa&labelColor=0d1117)](https://github.com/Sahilp2407)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sahil_Pandey-0d1117?style=for-the-badge&logo=linkedin&logoColor=0ea5e9&labelColor=0d1117)](https://www.linkedin.com/in/sahil-pandey-7508b6317)
+[![Twitter](https://img.shields.io/badge/Twitter-@psahil2324-0d1117?style=for-the-badge&logo=twitter&logoColor=38bdf8&labelColor=0d1117)](https://x.com/psahil2324)
+[![Instagram](https://img.shields.io/badge/Instagram-@isthat__sahil-0d1117?style=for-the-badge&logo=instagram&logoColor=f472b6&labelColor=0d1117)](https://www.instagram.com/isthat__sahil/)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Sahilp2407&color=00ffaa&style=for-the-badge&label=PROFILE+VIEWS&abbreviated=true)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+╔─────────────────────────────────────────────────────────────────╗
+│  "Any sufficiently advanced technology is                        │
+│   indistinguishable from magic."  — Arthur C. Clarke             │
+│                                                                  │
+│  // I'm here to build the magic. One commit at a time. 🪄        │
+╚─────────────────────────────────────────────────────────────────╝
+```
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:05080d,50:001a0e,100:05080d&height=180&section=footer&text=Let%27s+Build+Something+Legendary+%F0%9F%9A%80&fontSize=24&fontColor=00ffaa&fontAlignY=58&animation=fadeIn&stroke=00ffaa&strokeWidth=1"/>
+
+</div>
+
+<!-- ╔══════════════════════════════════════════╗ -->
+<!--   crafted with obsession · sahil pandey    -->
+<!--   github.com/Sahilp2407 · india · 2025     -->
+<!-- ╚══════════════════════════════════════════╝ -->
